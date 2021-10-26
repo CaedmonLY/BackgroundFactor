@@ -1,0 +1,13 @@
+2021-04-11@21:59:14
+epoch 0 loss 0.000001 test_accuracy 0.94810
+epoch 0 loss 0.000002 test_accuracy 0.97610
+epoch 0 loss 0.000001 test_accuracy 0.98460
+epoch 1 loss 0.000003 test_accuracy 0.98240
+epoch 1 loss 0.000001 test_accuracy 0.98640
+epoch 1 loss 0.000001 test_accuracy 0.98150
+epoch 2 loss 0.000003 test_accuracy 0.98680
+epoch 2 loss 0.000001 test_accuracy 0.99030
+epoch 2 loss 0.000001 test_accuracy 0.99040
+epoch 3 loss 0.000002 test_accuracy 0.98940
+epoch 3 loss 0.000001 test_accuracy 0.99110
+epoch 3 loss 0.000001 test_accuracy 0.99170
